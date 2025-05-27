@@ -1,4 +1,4 @@
-Start Bootstrap by Leo T. Mazive
+START BOOTSTRAP BY LEO T. MAZIVE
 A simple, clean, and responsive portfolio website built with HTML and CSS, inspired by the Start Bootstrap - Freelancer theme. This project is a personal portfolio template showcasing sections like portfolio, about, contact, and social media links.
 
 🔥 Live Demo
