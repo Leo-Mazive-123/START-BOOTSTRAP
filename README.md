@@ -46,12 +46,6 @@ Open index.html in your browser.
 
 That's it! No build tools or server setup needed.
 
-bash
-Copy
-Edit
-git clone https://github.com/Leo-Mazive-123/start-bootstrap-portfolio.git
-cd start-bootstrap-portfolio
-start index.html
 ✍️ Author
 Leo T. Mazive
 Follow me on:
