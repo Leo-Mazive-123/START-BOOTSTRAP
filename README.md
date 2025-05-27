@@ -62,4 +62,3 @@ Twitter
 
 LinkedIn
 
-Global News
